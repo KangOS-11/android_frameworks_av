@@ -48,7 +48,7 @@ cc_defaults {
     ],
 
     product_variables: {
-        corvus: {
+        kang: {
             uses_qcom_bsp_legacy: {
                 cppflags: ["-DQCOM_BSP_LEGACY"],
             },
